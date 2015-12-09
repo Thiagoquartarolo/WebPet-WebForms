@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Sonserina.EscritorioDeProjetos.WebPet.MasterPages.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title>WebPet | Escritorio de Projetos 3º ADS</title>
+	<asp:ContentPlaceHolder ID="head" runat="server">
+		<!--Css-->
+		<link rel="stylesheet" href="/Css/geral.css" />
+		<link rel="stylesheet" href="/Css/bootstrap.css" />
+		<link rel="stylesheet" href="/Css/bootstrap.min.css" />
+		<!--Scripts-->
+		<script type="text/javascript" src="/Scripts/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+		<script>
+			$(window).scroll(function () {
+				var position = $(this).scrollTop();
+
+				if (position >= $('.footer').offset().top) {
+					alert();
+					$('.cat_navbar').removeClass('fixed');
+					$('.cat_navbar').addClass('relative');
+				};
+			});
+		</script>
+	</asp:ContentPlaceHolder>
+</head>
+<body>
+	<form runat="server">
+		<header>
+			<div class="cat_navbar">
+				<a href="../Default.aspx">
+					<img id="logoWebpet" src="../Images/webpet_logo.png" alt="WebPet" /></a>
+				<ul>
+					<li><a href="../Procurase/Default.aspx">Procura-se</a></li>
+					<li><a href="../Mural/Default.aspx">Mural</a></li>
+					<li><a href="../Dicas/Default.aspx">Dicas</a></li>
+					<li><a href="../Parceiros/Default.aspx">Parceiro</a></li>
+					<li><a href="../Contato/Default.aspx">Contato</a></li>
+				</ul>
+				<div id="login" style="padding-top: 5px">
+					<input type="button" class="btn" value="Editar Cadastro" OnClick="javascript: location.href = '/login/AlteracaoCadastral.aspx';" />					
+					<asp:Button OnClick="LogOFF" Text="Sair" runat="server" CssClass="btn btn-danger" />
+				</div>
+			</div>
+		</header>
+
+		<div class="container body-content">
+			<asp:ContentPlaceHolder ID="MainContent" runat="server">
+				<!--Conteudo-->
+			</asp:ContentPlaceHolder>
+		</div>
+
+
+		<div class="footer">
+			<!--Footer-->
+		</div>
+
+	</form>
+</body>
+</html>

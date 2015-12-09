@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{E62C673D-6D15-4A39-AAED-54E54BA29327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C4594F5B-3E53-4ABF-90A8-CD3DC58EC7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_webCamadaUI", "_webCamadaUI\_webCamadaUI.csproj", "{7B1B6AE2-2EE5-4B62-9BE3-AFA9128CFB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E62C673D-6D15-4A39-AAED-54E54BA29327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62C673D-6D15-4A39-AAED-54E54BA29327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62C673D-6D15-4A39-AAED-54E54BA29327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62C673D-6D15-4A39-AAED-54E54BA29327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4594F5B-3E53-4ABF-90A8-CD3DC58EC7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4594F5B-3E53-4ABF-90A8-CD3DC58EC7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4594F5B-3E53-4ABF-90A8-CD3DC58EC7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4594F5B-3E53-4ABF-90A8-CD3DC58EC7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1B6AE2-2EE5-4B62-9BE3-AFA9128CFB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1B6AE2-2EE5-4B62-9BE3-AFA9128CFB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1B6AE2-2EE5-4B62-9BE3-AFA9128CFB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1B6AE2-2EE5-4B62-9BE3-AFA9128CFB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

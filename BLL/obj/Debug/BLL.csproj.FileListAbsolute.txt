@@ -1,0 +1,149 @@
+C:\Users\USER\Desktop\Sonserina.WebPet.EscritorioDeProjetos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\teste webPet\BLL\bin\Debug\BLL.dll
+F:\teste webPet\BLL\bin\Debug\BLL.pdb
+F:\teste webPet\BLL\bin\Debug\DAL.dll
+F:\teste webPet\BLL\bin\Debug\DAL.pdb
+F:\teste webPet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\teste webPet\BLL\obj\Debug\BLL.dll
+F:\teste webPet\BLL\obj\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\bin\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\bin\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\bin\Debug\DAL.dll
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\bin\Debug\DAL.pdb
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\obj\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\teste webPet\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Desktop\teste webPet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\teste webPet\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\teste webPet\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\teste webPet\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\teste webPet\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\teste webPet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\teste webPet\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\teste webPet\BLL\obj\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\bin\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\bin\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\bin\Debug\DAL.dll
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\bin\Debug\DAL.pdb
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\obj\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\Thiago_webPet\BLL\obj\Debug\BLL.pdb
+C:\Users\lievi\Desktop\webPet_V2\BLL\bin\Debug\BLL.dll
+C:\Users\lievi\Desktop\webPet_V2\BLL\bin\Debug\BLL.pdb
+C:\Users\lievi\Desktop\webPet_V2\BLL\bin\Debug\DAL.dll
+C:\Users\lievi\Desktop\webPet_V2\BLL\bin\Debug\DAL.pdb
+C:\Users\lievi\Desktop\webPet_V2\BLL\obj\Debug\BLL.dll
+C:\Users\lievi\Desktop\webPet_V2\BLL\obj\Debug\BLL.pdb
+C:\Users\lievi\Desktop\webPet_V2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\webPet_V2\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V2\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V2\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Desktop\webPet_V2\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Desktop\webPet_V2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\webPet_V2\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V2\BLL\obj\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\bin\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\bin\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\bin\Debug\DAL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\bin\Debug\DAL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\obj\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V4\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Downloads\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.pdb
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.dll
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.pdb
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.dll
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.pdb
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.dll
+D:\Drive\BandTec\3º Semestre\Escritorio de projetos\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\bin\Debug\BLL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\bin\Debug\DAL.pdb
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.dll
+C:\Users\thiago.quartarolo\Desktop\webPet_V5\webPet_V5\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.2\webPet_V5.2\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.2\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\webPet_V5.2\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\webPet_V5.2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\webPet_V5.2\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.2\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.4\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.5\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.5\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.5\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\webPet_V5.5\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.5\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\bin\Debug\BLL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.dll
+C:\Users\Gabriel\Downloads\webPet_V5.5\BLL\obj\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\bin\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\bin\Debug\BLL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\bin\Debug\DAL.dll
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\bin\Debug\DAL.pdb
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\obj\Debug\BLL.dll
+C:\Users\aluno\Desktop\webPet_V5.5.4\webPet_V5.5.4\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.6\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.6\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V5.6\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\webPet_V5.6\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\webPet_V5.6\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\webPet_V5.6\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V5.6\BLL\obj\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V6\BLL\bin\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V6\BLL\bin\Debug\BLL.pdb
+C:\Users\USER\Desktop\webPet_V6\BLL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\webPet_V6\BLL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\webPet_V6\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\webPet_V6\BLL\obj\Debug\BLL.dll
+C:\Users\USER\Desktop\webPet_V6\BLL\obj\Debug\BLL.pdb
